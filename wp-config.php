@@ -26,7 +26,7 @@ define( 'DB_NAME', 'lucioshopdb' );
 define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '@f$HG7cJ$F#5hS44' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
