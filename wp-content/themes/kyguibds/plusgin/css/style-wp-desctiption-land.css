@@ -1,0 +1,11 @@
+.box_info_meta_box{
+    background: #000;
+    display: block;
+    lable{
+        display: block;
+        font-weight: bold;
+    }
+    input{
+        width: 100%;
+    }
+}

@@ -1,0 +1,162 @@
+/*--------------------------------------
+FONTS
+--------------------------------------*/
+@import url("https://fonts.googleapis.com/css?family=Noto+Serif");
+/*--------------------------------------
+COLOR WEBSITE
+--------------------------------------*/
+/*--------------------------------------
+COLOR WEBSITE
+--------------------------------------*/
+.container {
+  max-width: 1268px; }
+  @media screen and (max-width: 1268px) {
+    .container {
+      max-width: 980px; } }
+  @media screen and (max-width: 1000px) {
+    .container {
+      max-width: 760px; } }
+  @media screen and (max-width: 780px) {
+    .container {
+      max-width: 570px; } }
+  @media screen and (max-width: 480px) {
+    .container {
+      max-width: 100%; } }
+
+@media screen and (max-width: 1268px) {
+  .list_item_post .thumb_img_article img {
+    width: 180px;
+    height: 180px; } }
+@media screen and (max-width: 480px) {
+  .list_item_post .thumb_img_article img {
+    width: 130px;
+    height: 130px; } }
+
+@media screen and (max-width: 1268px) {
+  .list_item_post .modern_list_content {
+    width: 220px;
+    padding: 0 20px 10px 20px; } }
+@media screen and (max-width: 1024px) {
+  .list_item_post .modern_list_content {
+    width: calc(100% - 180px);
+    padding: 0 20px 10px 20px; } }
+@media screen and (max-width: 480px) {
+  .list_item_post .modern_list_content {
+    width: calc(100% - 130px);
+    padding: 0 20px 10px 20px; } }
+@media screen and (max-width: 1268px) {
+  .list_item_post .modern_list_content p {
+    display: none; } }
+@media screen and (max-width: 1268px) {
+  .list_item_post .modern_list_content .heading_title {
+    font-size: 16px;
+    line-height: 22px; } }
+@media screen and (max-width: 480px) {
+  .list_item_post .modern_list_content .heading_title {
+    margin: 26px 0 0 0;
+    font-size: 12px;
+    line-height: 19px; } }
+@media screen and (max-width: 480px) {
+  .list_item_post .modern_list_content .time_ago {
+    display: none; } }
+@media screen and (max-width: 480px) {
+  .list_item_post .read_more {
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    height: 23px;
+    width: 77px;
+    background: #ff7f00;
+    text-align: center;
+    line-height: 23px;
+    color: #fff; } }
+
+@media screen and (max-width: 1268px) {
+  .main_content .content_primary {
+    width: 440px;
+    height: auto;
+    float: left;
+    margin: 0 20px 0 20px; } }
+@media screen and (max-width: 1024px) {
+  .main_content .content_primary {
+    width: 440px; } }
+@media screen and (max-width: 780px) {
+  .main_content .content_primary {
+    width: 100%; } }
+
+@media screen and (max-width: 1024px) {
+  .single_post .content_primary {
+    width: calc(100% - 340px); } }
+@media screen and (max-width: 780px) {
+  .single_post .content_primary {
+    width: 100%; } }
+
+@media screen and (max-width: 1250px) {
+  .top_social li {
+    display: none; }
+  .top_social li.search {
+    display: block; } }
+@media screen and (max-width: 1064px) {
+  .top_social li {
+    display: block; } }
+@media screen and (max-width: 530px) {
+  .top_social li {
+    display: none; }
+  .top_social li.search {
+    display: block; } }
+
+@media screen and (max-width: 1064px) {
+  .main_menu .jquerycssmenu {
+    display: none; } }
+
+@media screen and (max-width: 780px) {
+  .main_content .content_primary {
+    margin: 0; } }
+@media screen and (max-width: 1000px) {
+  .main_content .left_sidebar {
+    display: none; } }
+@media screen and (max-width: 820px) {
+  .main_content .right_sidebar {
+    width: 100%; } }
+
+@media screen and (max-width: 820px) {
+  .top_post .article_list .article_item {
+    width: 100%; } }
+
+@media screen and (max-width: 600px) {
+  .related_wrap {
+    padding: 10px 15px 10px 15px; } }
+@media screen and (max-width: 600px) {
+  .related_wrap .one_half_rw, .related_wrap .one_half_last_rw {
+    width: 100%; } }
+
+@media screen and (max-width: 800px) {
+  .main_content .main_content_article {
+    margin: 0 15px 40px 15px; } }
+@media screen and (max-width: 800px) {
+  .main_content .main_content_article p img {
+    width: 100%;
+    margin-left: 0; } }
+
+.pc_footbal {
+  display: block;
+  text-align: center; }
+  @media screen and (max-width: 1024px) {
+    .pc_footbal {
+      display: none; } }
+
+.sp_footbal {
+  display: none;
+  text-align: center; }
+  @media screen and (max-width: 1024px) {
+    .sp_footbal {
+      display: block; } }
+
+@media screen and (max-width: 375px) {
+  .box_social {
+    padding: 10px 5px; } }
+@media screen and (max-width: 768px) {
+  .box_social .list_social {
+    width: 100%; } }
+
+/*# sourceMappingURL=respontive.css.map */
